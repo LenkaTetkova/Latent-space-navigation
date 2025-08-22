@@ -33,3 +33,4 @@ University of Copenhagen (DIKU):
 ### Acknowledgements:
 
 This work was supported by the Novo Nordisk Foundation, the Pioneer Centre for AI, and the Danish Data Science Academy (DDSA).
+The team would also like to give a shoutout to project [Dailz](https://github.com/cardiffnlp/dialz). Feel free to star and support them.
