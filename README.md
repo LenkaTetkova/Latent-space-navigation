@@ -13,7 +13,7 @@ Level - introductory: suitable for beginners with little to no prior knowledge o
 ### Content of this repository:
 - Slides for the introductory talk
 - Three Jupyter notebooks
-    1. Sparse autoencoders (SAEs) and concept activation vectors for LLMs -- open in [Colab](https://colab.research.google.com/github/LenkaTetkova/Latent-space-navigation/blob/main/d3a_sae_notebook.ipynb).
+    1. Sparse autoencoders (SAEs) and concept activation vectors for LLMs: open in [Colab](https://colab.research.google.com/github/LenkaTetkova/Latent-space-navigation/blob/main/d3a_sae_notebook.ipynb).
     2. Steering sentiment in LLMs: open in [Colab](https://colab.research.google.com/github/LenkaTetkova/Latent-space-navigation/blob/main/steer_sentiment.ipynb).
     3. Rotations of objects (images): open in [Colab](https://colab.research.google.com/github/LenkaTetkova/Latent-space-navigation/blob/main/coil_and_clip_space.ipynb).
 
